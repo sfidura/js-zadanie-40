@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+    background-color: blanchedalmond;
+    padding: 200px;
+}
+form{
+    background-color: dodgerblue;
+    width: 300px;
+    padding: 10px;
+}
+input{
+    display: block;
+    margin: 20px;
+    padding: 10px;
+}
+button{
+    padding: 10px 20px;
+    margin: 20px 10px 20px 10px;
+    background-color: darkseagreen;
+    color: whitesmoke;
+    text-transform: uppercase;
+    font-weight: bolder;
+}
+#container > p{
+    width: 600px;
+    margin: 20px;
+    padding: 20px;
+    font-weight: bold;
+    font-family: monospace;
+    font-size: 2.5em;
+    color: darkcyan;
+}
+#container > p:first-child{
+    font-size: 4.5;
+    color: darkblue;
+}
